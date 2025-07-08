@@ -1,6 +1,3 @@
-"scripts": {
-  "start": "node index.js"
-}
 
 
 const express = require('express');
